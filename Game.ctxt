@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment10.params=MainText
+comment10.target=void\ MainTextPanel(java.lang.String)
+comment2.params=
+comment2.target=void\ createGameScreen()
+comment2.text=\r\n\ Create\ all\ the\ rooms\ and\ link\ their\ exits\ together.\r\n
+comment3.params=
+comment3.target=void\ monsterSetup()
+comment4.params=
+comment4.target=void\ getRooms()
+comment5.params=
+comment5.target=void\ playerAttack()
+comment6.params=
+comment6.target=void\ slime1Attack()
+comment7.params=playerHP
+comment7.target=void\ setPlayerHP(int)
+comment8.params=slime1HP
+comment8.target=void\ setSlime1HP(int)
+comment9.params=weapon
+comment9.target=void\ setWeapon(java.lang.String)
+numComments=11

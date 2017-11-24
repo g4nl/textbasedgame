@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlayerSetup
+comment1.params=game
+comment1.target=PlayerSetup(Game)
+comment2.params=weapon
+comment2.target=void\ setWeapon(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getWeapon()
+comment4.params=
+comment4.target=int\ getHP()
+comment5.params=hp
+comment5.target=void\ setHP(int)
+numComments=6

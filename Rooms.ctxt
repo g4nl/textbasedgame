@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Rooms
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rooms\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=position\ mainText\ choice1\ choice2\ choice3\ choice4\ choice5
+comment1.target=Rooms(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPosition()
+comment3.params=
+comment3.target=java.lang.String\ getText()
+comment4.params=
+comment4.target=java.lang.String\ getC1()
+comment5.params=
+comment5.target=java.lang.String\ getC2()
+comment6.params=
+comment6.target=java.lang.String\ getC3()
+comment7.params=
+comment7.target=java.lang.String\ getC4()
+comment8.params=
+comment8.target=java.lang.String\ getC5()
+numComments=9

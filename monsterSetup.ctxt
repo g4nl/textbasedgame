@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=monsterSetup
+comment1.params=game
+comment1.target=monsterSetup(Game)
+comment2.params=
+comment2.target=int\ getHP()
+comment3.params=hp
+comment3.target=void\ setHP(int)
+numComments=4

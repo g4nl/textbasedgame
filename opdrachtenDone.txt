@@ -1,0 +1,25 @@
+8.01:	je creërt via deze toepassing een game.
+	je kunt  go, help en exit als commando's gebruiken.
+	er zijn in totaal 5 rooms.
+8.02:	Game:		je start/maakt een nieuwe game.
+	Room:		een nieuwe ruimte maken.
+	command:	splits het commando.
+	Parser:		ontvangt wat de user typt.
+	CommandWords:	alle bestaande commando's.
+8.09:	retourneerd alle keys in een HashMap.
+8.10:	maakt een variabele voor exits en geeft ze aan de string door.
+8.12:			      		
+	    				CommandWords
+		Paser		Scanner
+	game
+		Room	String
+					HashMap<String,Room>
+			      
+8.13:	de waardes van de string en hashmap veranderen als enige.
+8.17:	ja, je defineert wat er nu gebeurt als een woord in de lijst staat.
+8.19:	vmc heeft betrekking op het splitsen van taken, de code te onderhouden, etc.
+8.20:	zie klasse Item en Room.
+8.27:	kan je je (correct) naar een andere kamer verplaatsen?, kan je terug in de tijd?, word alles goed weergeven?.
+8.36:	mits je allen de commando's wil vertalen.
+8.37:	het displayed de andere woorden voor commando's.
+8.39:	ja.
